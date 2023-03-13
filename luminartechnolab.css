@@ -1,0 +1,152 @@
+.header {
+    background-color: rgb(71, 11, 127);
+    height: 50px;
+}
+
+.captionsection {
+    position: relative;
+    width: 100%;
+}
+
+.headclass {
+    height: 500px;
+}
+
+.caption {
+    position: absolute;
+    top: -180px;
+    z-index: 0;
+    left:15%;
+    color: white;
+
+}
+
+@media (max-width:767){
+    .caption{
+        color: white;
+        top: -220px;
+        z-index: 0;
+        left:15%
+    }
+    .captionp{
+        color: white;
+        margin-top: -220px;
+        margin-bottom: 61px;
+    }
+}
+
+
+.captionp {
+    text-align: start;
+    margin-top: -220px;
+    margin-bottom: 61px;
+    margin-left: 15%;
+    color: white;
+}
+
+.image {
+    height: 500px;
+}
+
+.viewcourse {
+    margin-left: -25px;
+    border-radius: 50px;
+    background-color: #5e068a;
+    border: none;
+}
+
+.viewcourse:hover {
+    background-color: #9e6ab9;
+}
+
+.submit {
+    background-color: #7003a6;
+}
+
+.Enquiry {
+    background-color: #5e068a;
+    margin-left: 200px;
+    border-radius: 50px;
+    border: none;
+}
+
+.luminartext {
+    font-size: 26px;
+    color: #5e068a;
+}
+
+.luminartextp {
+    color: #5e068a99;
+}
+
+.learnmore {
+    height: 70px;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: #5e068a;
+    border-radius: 50px;
+    border: none;
+}
+
+.learnmore:hover {
+    color: #5e068a;
+    background-color: white;
+    border: 2px #5e068a solid;
+}
+
+.course {
+    color: #5e068a;
+}
+
+.datascience,
+.subcourses {
+    color: #5e068a;
+    text-decoration: none;
+}
+
+.viewall {
+    height: 55px;
+    color: #5e068a;
+    font-size: 14px;
+    font-weight: bold;
+    background-color: white;
+    border-radius: 50px;
+    border: 2px #5e068a solid;
+}
+
+.testimonial{
+
+    vertical-align: middle;
+}
+
+.cd-author {
+    margin-top: 32px;
+    margin-left: 15px;
+}
+
+
+.testimg {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+
+}
+
+.cd-author-info {
+    list-style-type: none;
+    margin-top: -40px;
+    margin-left: 5px;
+}
+
+.linksdeclaration{
+    color:white;
+    text-decoration-line: none;
+}
+
+.gallery{
+    color: #5e068a;
+}
+
+
+
