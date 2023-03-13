@@ -33,6 +33,13 @@
         margin-top: -220px;
         margin-bottom: 61px;
     }
+
+    .viewcourse{
+        margin-left: -25px;
+        border-radius: 50px;
+        background-color: #5e068a;
+        border: none;
+    }
 }
 
 
